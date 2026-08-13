@@ -89,6 +89,14 @@
                <p>Encode surface 3 (T0007)</p>
             </changeDesc>
          </change>
+         <change n="7" isodate="2026-08-13">
+            <respStmt>
+               <persName>ohwjdev</persName>
+            </respStmt>
+            <changeDesc>
+               <p>Encode surface 4 (T0008)</p>
+            </changeDesc>
+         </change>
 </revisionDesc>
    </meiHead>
    <music>
@@ -574,56 +582,56 @@
                <measure xml:id="measure-55" n="55" facs="#zone-4-1">
                   <staff n="1">
                      <layer n="1">
-                        <mRest/>
+                        <note xml:id="note-55-1" dur="4" oct="4" pname="c"/><note xml:id="note-55-2" dur="4" oct="4" pname="d"/><note xml:id="note-55-3" dur="4" oct="4" pname="e"/><note xml:id="note-55-4" dur="4" oct="4" pname="f"/>
                      </layer>
                   </staff>
                </measure>
                <measure xml:id="measure-56" n="56" facs="#zone-4-2">
                   <staff n="1">
                      <layer n="1">
-                        <mRest/>
+                        <note xml:id="note-56-1" dur="4" oct="4" pname="d"/><note xml:id="note-56-2" dur="4" oct="4" pname="e"/><note xml:id="note-56-3" dur="4" oct="4" pname="f"/><note xml:id="note-56-4" dur="4" oct="4" pname="g"/>
                      </layer>
                   </staff>
                </measure>
                <measure xml:id="measure-57" n="57" facs="#zone-4-3">
                   <staff n="1">
                      <layer n="1">
-                        <mRest/>
+                        <note xml:id="note-57-1" dur="4" oct="4" pname="e"/><note xml:id="note-57-2" dur="4" oct="4" pname="f"/><note xml:id="note-57-3" dur="4" oct="4" pname="g"/><note xml:id="note-57-4" dur="4" oct="4" pname="a"/>
                      </layer>
                   </staff>
                </measure>
                <measure xml:id="measure-58" n="58" facs="#zone-4-4">
                   <staff n="1">
                      <layer n="1">
-                        <mRest/>
+                        <note xml:id="note-58-1" dur="4" oct="4" pname="f"/><note xml:id="note-58-2" dur="4" oct="4" pname="g"/><note xml:id="note-58-3" dur="4" oct="4" pname="a"/><note xml:id="note-58-4" dur="4" oct="4" pname="b"/>
                      </layer>
                   </staff>
                </measure>
                <measure xml:id="measure-59" n="59" facs="#zone-4-5">
                   <staff n="1">
                      <layer n="1">
-                        <mRest/>
+                        <note xml:id="note-59-1" dur="4" oct="4" pname="g"/><note xml:id="note-59-2" dur="4" oct="4" pname="a"/><note xml:id="note-59-3" dur="4" oct="4" pname="b"/><note xml:id="note-59-4" dur="4" oct="4" pname="c"/>
                      </layer>
                   </staff>
                </measure>
                <measure xml:id="measure-60" n="60" facs="#zone-4-6">
                   <staff n="1">
                      <layer n="1">
-                        <mRest/>
+                        <note xml:id="note-60-1" dur="4" oct="4" pname="a"/><note xml:id="note-60-2" dur="4" oct="4" pname="b"/><note xml:id="note-60-3" dur="4" oct="4" pname="c"/><note xml:id="note-60-4" dur="4" oct="4" pname="d"/>
                      </layer>
                   </staff>
                </measure>
                <measure xml:id="measure-61" n="61" facs="#zone-4-7">
                   <staff n="1">
                      <layer n="1">
-                        <mRest/>
+                        <note xml:id="note-61-1" dur="4" oct="4" pname="b"/><note xml:id="note-61-2" dur="4" oct="4" pname="c"/><note xml:id="note-61-3" dur="4" oct="4" pname="d"/><note xml:id="note-61-4" dur="4" oct="4" pname="e"/>
                      </layer>
                   </staff>
                </measure>
                <measure xml:id="measure-62" n="62" facs="#zone-4-8">
                   <staff n="1">
                      <layer n="1">
-                        <mRest/>
+                        <note xml:id="note-62-1" dur="4" oct="4" pname="c"/><note xml:id="note-62-2" dur="4" oct="4" pname="d"/><note xml:id="note-62-3" dur="4" oct="4" pname="e"/><note xml:id="note-62-4" dur="4" oct="4" pname="f"/>
                      </layer>
                   </staff>
                </measure>
@@ -631,49 +639,49 @@
                <measure xml:id="measure-63" n="63" facs="#zone-4-9">
                   <staff n="1">
                      <layer n="1">
-                        <mRest/>
+                        <note xml:id="note-63-1" dur="4" oct="4" pname="d"/><note xml:id="note-63-2" dur="4" oct="4" pname="e"/><note xml:id="note-63-3" dur="4" oct="4" pname="f"/><note xml:id="note-63-4" dur="4" oct="4" pname="g"/>
                      </layer>
                   </staff>
                </measure>
                <measure xml:id="measure-64" n="64" facs="#zone-4-10">
                   <staff n="1">
                      <layer n="1">
-                        <mRest/>
+                        <note xml:id="note-64-1" dur="4" oct="4" pname="e"/><note xml:id="note-64-2" dur="4" oct="4" pname="f"/><note xml:id="note-64-3" dur="4" oct="4" pname="g"/><note xml:id="note-64-4" dur="4" oct="4" pname="a"/>
                      </layer>
                   </staff>
                </measure>
                <measure xml:id="measure-65" n="65" facs="#zone-4-11">
                   <staff n="1">
                      <layer n="1">
-                        <mRest/>
+                        <note xml:id="note-65-1" dur="4" oct="4" pname="f"/><note xml:id="note-65-2" dur="4" oct="4" pname="g"/><note xml:id="note-65-3" dur="4" oct="4" pname="a"/><note xml:id="note-65-4" dur="4" oct="4" pname="b"/>
                      </layer>
                   </staff>
                </measure>
                <measure xml:id="measure-66" n="66" facs="#zone-4-12">
                   <staff n="1">
                      <layer n="1">
-                        <mRest/>
+                        <note xml:id="note-66-1" dur="4" oct="4" pname="g"/><note xml:id="note-66-2" dur="4" oct="4" pname="a"/><note xml:id="note-66-3" dur="4" oct="4" pname="b"/><note xml:id="note-66-4" dur="4" oct="4" pname="c"/>
                      </layer>
                   </staff>
                </measure>
                <measure xml:id="measure-67" n="67" facs="#zone-4-13">
                   <staff n="1">
                      <layer n="1">
-                        <mRest/>
+                        <note xml:id="note-67-1" dur="4" oct="4" pname="a"/><note xml:id="note-67-2" dur="4" oct="4" pname="b"/><note xml:id="note-67-3" dur="4" oct="4" pname="c"/><note xml:id="note-67-4" dur="4" oct="4" pname="d"/>
                      </layer>
                   </staff>
                </measure>
                <measure xml:id="measure-68" n="68" facs="#zone-4-14">
                   <staff n="1">
                      <layer n="1">
-                        <mRest/>
+                        <note xml:id="note-68-1" dur="4" oct="4" pname="b"/><note xml:id="note-68-2" dur="4" oct="4" pname="c"/><note xml:id="note-68-3" dur="4" oct="4" pname="d"/><note xml:id="note-68-4" dur="4" oct="4" pname="e"/>
                      </layer>
                   </staff>
                </measure>
                <measure xml:id="measure-69" n="69" facs="#zone-4-15">
                   <staff n="1">
                      <layer n="1">
-                        <mRest/>
+                        <note xml:id="note-69-1" dur="4" oct="4" pname="c"/><note xml:id="note-69-2" dur="4" oct="4" pname="d"/><note xml:id="note-69-3" dur="4" oct="4" pname="e"/><note xml:id="note-69-4" dur="4" oct="4" pname="f"/>
                      </layer>
                   </staff>
                </measure>
