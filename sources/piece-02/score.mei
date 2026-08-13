@@ -65,6 +65,14 @@
                <p>add note</p>
             </changeDesc>
          </change>
+         <change n="4" isodate="2026-08-13">
+            <respStmt>
+               <persName>ohwjd</persName>
+            </respStmt>
+            <changeDesc>
+               <p>add more notes</p>
+            </changeDesc>
+         </change>
 </revisionDesc>
    </meiHead>
    <music>
@@ -171,21 +179,21 @@
                <measure xml:id="measure-2" n="2" facs="#zone-1-2">
                   <staff n="1">
                      <layer n="1">
-                        <mRest/>
+                        <note dur="1" pname="d" oct="4"/>
                      </layer>
                   </staff>
                </measure>
                <measure xml:id="measure-3" n="3" facs="#zone-1-3">
                   <staff n="1">
                      <layer n="1">
-                        <mRest/>
+                        <note dur="1" pname="d" oct="4"/>
                      </layer>
                   </staff>
                </measure>
                <measure xml:id="measure-4" n="4" facs="#zone-1-4">
                   <staff n="1">
                      <layer n="1">
-                        <mRest/>
+                        <note dur="1" pname="d" oct="4"/>
                      </layer>
                   </staff>
                </measure>
