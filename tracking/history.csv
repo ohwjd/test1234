@@ -27,3 +27,4 @@ timestamp,task_id,subtask_id,user_id,action,outcome,detail,command,version,input
 2026-08-13T11:52:49.598Z,T0008,,297915765,submit_encoding,accepted,,campaign.submitEncoding,1,"{""task_id"":""T0008""}"
 2026-08-13T11:54:28.239Z,T0008,S0001,297915765,claim_validation,accepted,,campaign.claimValidation,1,"{""task_id"":""T0008"",""subtask_id"":""S0001""}"
 2026-08-13T11:55:30.118Z,T0008,S0001,297915765,submit_validation,accepted,pass,campaign.submitValidation,2,"{""task_id"":""T0008"",""subtask_id"":""S0001"",""verdict"":""pass""}"
+2026-08-13T11:59:11.622Z,P0001,,297915765,send_back,accepted,,campaign.sendBack,1,"{""task_id"":""P0001""}"
