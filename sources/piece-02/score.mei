@@ -429,7 +429,9 @@
                <measure xml:id="measure-36" n="36" facs="#zone-3-1">
                   <staff n="1">
                      <layer n="1">
-                        <mRest/>
+                        <note xml:id="note-36-1" dur="4" oct="4" pname="c"/>
+                        <note xml:id="note-36-2" dur="4" oct="4" pname="e"/>
+                        <note xml:id="note-36-3" dur="2" oct="4" pname="g"/>
                      </layer>
                   </staff>
                </measure>
