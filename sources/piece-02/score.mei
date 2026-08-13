@@ -8,7 +8,8 @@
             <title type="subordinate">electronic transcription</title>
                      <respStmt>
                <persName role="contributor">ohwjd</persName>
-            </respStmt>
+                           <persName role="contributor">ohwjdev</persName>
+</respStmt>
          </titleStmt>
          <pubStmt>
             <availability>
@@ -24,7 +25,10 @@
             <application version="1" xml:id="lets-encode">
                <name>Let's Encode!</name>
             </application>
-         </appInfo>
+                     <application xml:id="app-mei-friend">
+               <name>mei-friend</name>
+            </application>
+</appInfo>
       </encodingDesc>
       <manifestationList>
          <manifestation xml:id="manifestation-1">
@@ -51,6 +55,14 @@
             </respStmt>
             <changeDesc>
                <p>Correct measure zones (P0002)</p>
+            </changeDesc>
+         </change>
+         <change n="3" isodate="2026-08-13">
+            <respStmt>
+               <persName>ohwjdev</persName>
+            </respStmt>
+            <changeDesc>
+               <p>add note</p>
             </changeDesc>
          </change>
 </revisionDesc>
@@ -152,7 +164,7 @@
                <measure xml:id="measure-1" n="1" facs="#zone-1-1">
                   <staff n="1">
                      <layer n="1">
-                        <mRest/>
+                        <note dur="1" pname="d" oct="4"/>
                      </layer>
                   </staff>
                </measure>
