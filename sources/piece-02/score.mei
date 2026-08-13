@@ -152,7 +152,7 @@
                <measure xml:id="measure-1" n="1" facs="#zone-1-1">
                   <staff n="1">
                      <layer n="1">
-                        <mRest/>
+                        <note dur="1" pname="d" oct="4"/>
                      </layer>
                   </staff>
                </measure>
