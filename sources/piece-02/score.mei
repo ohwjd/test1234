@@ -73,6 +73,14 @@
                <p>add more notes</p>
             </changeDesc>
          </change>
+         <change n="5" isodate="2026-08-13">
+            <respStmt>
+               <persName>ohwjdev</persName>
+            </respStmt>
+            <changeDesc>
+               <p>add note on page2</p>
+            </changeDesc>
+         </change>
 </revisionDesc>
    </meiHead>
    <music>
@@ -290,130 +298,130 @@
                   </staff>
                </measure>
                <pb xml:id="pb-2" n="2" facs="#surface-2"/>
-               <measure xml:id="measure-18" n="18" facs="#zone-2-1">
-                  <staff n="1">
-                     <layer n="1">
-                        <mRest/>
+               <measure xml:id="measure-18" facs="#zone-2-1" n="18">
+                  <staff xml:id="sk146el1" n="1">
+                     <layer xml:id="likktjz1" n="1">
+                        <note dur="1" pname="d" oct="4"/>
                      </layer>
                   </staff>
                </measure>
-               <measure xml:id="measure-19" n="19" facs="#zone-2-2">
-                  <staff n="1">
-                     <layer n="1">
-                        <mRest/>
+               <measure xml:id="measure-19" facs="#zone-2-2" n="19">
+                  <staff xml:id="saf5l3o2" n="1">
+                     <layer xml:id="legb5lm2" n="1">
+                        <mRest xml:id="mv6f2rr1"/>
                      </layer>
                   </staff>
                </measure>
-               <measure xml:id="measure-20" n="20" facs="#zone-2-3">
-                  <staff n="1">
-                     <layer n="1">
-                        <mRest/>
+               <measure xml:id="measure-20" facs="#zone-2-3" n="20">
+                  <staff xml:id="sxtam7e" n="1">
+                     <layer xml:id="ltn3bzw2" n="1">
+                        <mRest xml:id="myoglfm1"/>
                      </layer>
                   </staff>
                </measure>
-               <measure xml:id="measure-21" n="21" facs="#zone-2-4">
-                  <staff n="1">
-                     <layer n="1">
-                        <mRest/>
+               <measure xml:id="measure-21" facs="#zone-2-4" n="21">
+                  <staff xml:id="sn8g7pv2" n="1">
+                     <layer xml:id="l2842gw2" n="1">
+                        <mRest xml:id="m7uxqeu1"/>
                      </layer>
                   </staff>
                </measure>
-               <measure xml:id="measure-22" n="22" facs="#zone-2-5">
-                  <staff n="1">
-                     <layer n="1">
-                        <mRest/>
+               <measure xml:id="measure-22" facs="#zone-2-5" n="22">
+                  <staff xml:id="soxafbs1" n="1">
+                     <layer xml:id="lrbtlxf1" n="1">
+                        <mRest xml:id="m3p10gk2"/>
                      </layer>
                   </staff>
                </measure>
-               <measure xml:id="measure-23" n="23" facs="#zone-2-6">
-                  <staff n="1">
-                     <layer n="1">
-                        <mRest/>
+               <measure xml:id="measure-23" facs="#zone-2-6" n="23">
+                  <staff xml:id="suzo3cg1" n="1">
+                     <layer xml:id="le5istf1" n="1">
+                        <mRest xml:id="mvz0zro2"/>
                      </layer>
                   </staff>
                </measure>
-               <measure xml:id="measure-24" n="24" facs="#zone-2-7">
-                  <staff n="1">
-                     <layer n="1">
-                        <mRest/>
+               <measure xml:id="measure-24" facs="#zone-2-7" n="24">
+                  <staff xml:id="sb415nw1" n="1">
+                     <layer xml:id="lj8wr1v1" n="1">
+                        <mRest xml:id="mi3n8tt2"/>
                      </layer>
                   </staff>
                </measure>
-               <measure xml:id="measure-25" n="25" facs="#zone-2-8">
-                  <staff n="1">
-                     <layer n="1">
-                        <mRest/>
+               <measure xml:id="measure-25" facs="#zone-2-8" n="25">
+                  <staff xml:id="s0zkvbi2" n="1">
+                     <layer xml:id="lol39a51" n="1">
+                        <mRest xml:id="m936ao91"/>
                      </layer>
                   </staff>
                </measure>
-               <measure xml:id="measure-26" n="26" facs="#zone-2-9">
-                  <staff n="1">
-                     <layer n="1">
-                        <mRest/>
+               <measure xml:id="measure-26" facs="#zone-2-9" n="26">
+                  <staff xml:id="s5g5zue1" n="1">
+                     <layer xml:id="l5nrvyb1" n="1">
+                        <mRest xml:id="m0aakt71"/>
                      </layer>
                   </staff>
                </measure>
                <sb xml:id="sb-2-10" n="2"/>
-               <measure xml:id="measure-27" n="27" facs="#zone-2-10">
-                  <staff n="1">
-                     <layer n="1">
-                        <mRest/>
+               <measure xml:id="measure-27" facs="#zone-2-10" n="27">
+                  <staff xml:id="s4x2njj1" n="1">
+                     <layer xml:id="lklotr31" n="1">
+                        <mRest xml:id="mik6jl11"/>
                      </layer>
                   </staff>
                </measure>
-               <measure xml:id="measure-28" n="28" facs="#zone-2-11">
-                  <staff n="1">
-                     <layer n="1">
-                        <mRest/>
+               <measure xml:id="measure-28" facs="#zone-2-11" n="28">
+                  <staff xml:id="soi7b4r2" n="1">
+                     <layer xml:id="ln2qxak1" n="1">
+                        <mRest xml:id="mtpx7cb"/>
                      </layer>
                   </staff>
                </measure>
-               <measure xml:id="measure-29" n="29" facs="#zone-2-12">
-                  <staff n="1">
-                     <layer n="1">
-                        <mRest/>
+               <measure xml:id="measure-29" facs="#zone-2-12" n="29">
+                  <staff xml:id="s0q3z1j1" n="1">
+                     <layer xml:id="llwq3a71" n="1">
+                        <mRest xml:id="mzfjmk31"/>
                      </layer>
                   </staff>
                </measure>
-               <measure xml:id="measure-30" n="30" facs="#zone-2-13">
-                  <staff n="1">
-                     <layer n="1">
-                        <mRest/>
+               <measure xml:id="measure-30" facs="#zone-2-13" n="30">
+                  <staff xml:id="sv9k5qd1" n="1">
+                     <layer xml:id="l1zw22g" n="1">
+                        <mRest xml:id="m5ujqpl1"/>
                      </layer>
                   </staff>
                </measure>
-               <measure xml:id="measure-31" n="31" facs="#zone-2-14">
-                  <staff n="1">
-                     <layer n="1">
-                        <mRest/>
+               <measure xml:id="measure-31" facs="#zone-2-14" n="31">
+                  <staff xml:id="stdoxa7" n="1">
+                     <layer xml:id="lkgydt7" n="1">
+                        <mRest xml:id="m2vpw8r2"/>
                      </layer>
                   </staff>
                </measure>
-               <measure xml:id="measure-32" n="32" facs="#zone-2-15">
-                  <staff n="1">
-                     <layer n="1">
-                        <mRest/>
+               <measure xml:id="measure-32" facs="#zone-2-15" n="32">
+                  <staff xml:id="sug2xna" n="1">
+                     <layer xml:id="lqpu8xd" n="1">
+                        <mRest xml:id="mhamyhk2"/>
                      </layer>
                   </staff>
                </measure>
-               <measure xml:id="measure-33" n="33" facs="#zone-2-16">
-                  <staff n="1">
-                     <layer n="1">
-                        <mRest/>
+               <measure xml:id="measure-33" facs="#zone-2-16" n="33">
+                  <staff xml:id="s8rfkp7" n="1">
+                     <layer xml:id="l760uqv2" n="1">
+                        <mRest xml:id="mk0e77w2"/>
                      </layer>
                   </staff>
                </measure>
-               <measure xml:id="measure-34" n="34" facs="#zone-2-17">
-                  <staff n="1">
-                     <layer n="1">
-                        <mRest/>
+               <measure xml:id="measure-34" facs="#zone-2-17" n="34">
+                  <staff xml:id="s0oravn1" n="1">
+                     <layer xml:id="lskguw51" n="1">
+                        <mRest xml:id="mx3f28q1"/>
                      </layer>
                   </staff>
                </measure>
-               <measure xml:id="measure-35" n="35" facs="#zone-2-18">
-                  <staff n="1">
-                     <layer n="1">
-                        <mRest/>
+               <measure xml:id="measure-35" facs="#zone-2-18" n="35">
+                  <staff xml:id="sl9bi1u2" n="1">
+                     <layer xml:id="laybpgy2" n="1">
+                        <mRest xml:id="mp1hzpp1"/>
                      </layer>
                   </staff>
                </measure>

@@ -13,8 +13,8 @@ P0002,,completed,38179254,2026-08-13T09:22:52.485Z,
 P0002,S0001,completed,,,pass|297915765|2026-08-13T09:24:09.990Z
 T0005,,completed,38179254,2026-08-13T09:32:18.447Z,
 T0005,S0001,completed,,,pass|297915765|2026-08-13T09:33:48.700Z
-T0006,,encoding_required,,,
-T0006,S0001,pending,,,
+T0006,,validation_required,297915765,2026-08-13T09:51:26.641Z,
+T0006,S0001,validation_required,,,
 T0007,,encoding_required,,,
 T0007,S0001,pending,,,
 T0008,,encoding_required,,,
