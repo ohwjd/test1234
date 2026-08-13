@@ -81,6 +81,14 @@
                <p>add note on page2</p>
             </changeDesc>
          </change>
+         <change n="6" isodate="2026-08-13">
+            <respStmt>
+               <persName>ohwjdev</persName>
+            </respStmt>
+            <changeDesc>
+               <p>Encode surface 3 (T0007)</p>
+            </changeDesc>
+         </change>
 </revisionDesc>
    </meiHead>
    <music>
@@ -429,7 +437,9 @@
                <measure xml:id="measure-36" n="36" facs="#zone-3-1">
                   <staff n="1">
                      <layer n="1">
-                        <mRest/>
+                        <note xml:id="note-36-1" dur="4" oct="4" pname="c"/>
+                        <note xml:id="note-36-2" dur="4" oct="4" pname="e"/>
+                        <note xml:id="note-36-3" dur="2" oct="4" pname="g"/>
                      </layer>
                   </staff>
                </measure>
